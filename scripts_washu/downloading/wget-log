@@ -1,0 +1,6 @@
+--2019-08-29 21:49:02--  ftp://ftp.ncbi.nlm.nih.gov/geo/datasets/GDS5nnn/GDS5474//soft/*[%5El].soft.gz
+           => “/scratch/shpakb/annotations/mm_gds/.listing”
+Resolving ftp.ncbi.nlm.nih.gov... 130.14.250.10, 2607:f220:41e:250::11
+Connecting to ftp.ncbi.nlm.nih.gov|130.14.250.10|:21... connected.
+Logging in as anonymous ... 
+Login incorrect.
